@@ -1,2 +1,3 @@
 # rana.Demo
-this is my first Git repository
+This is my first Git Repository
+Author-Vishal Rana
